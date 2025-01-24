@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'book_widget1.dart';
+import 'book_page.dart';
 
 void main() {
   runApp(const MyApp());
